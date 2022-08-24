@@ -1,0 +1,10 @@
+nav#nav {
+    box-shadow: 0 0 10px #6c757d;
+    text-shadow: 1px 1px rgba(255, 0, 0, .6);
+}
+
+.nav-link {
+    color: white;
+    font-size: 16px;
+    
+}

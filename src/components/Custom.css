@@ -1,0 +1,118 @@
+/**** Nav ****/
+nav#nav {
+    box-shadow: 0 0 10px #6c757d;
+    text-shadow: 1px 1px rgba(255, 0, 0, .6);
+}
+
+a.nav-link {
+    color: white;
+    font-size: 1.5em;
+}
+
+/**** ToDos Category Buttons ****/
+#catButton {
+    color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, .9);
+    opacity: 85%;
+    border-style: groove;
+    background-color: rgba(255, 0, 0, .6);
+}
+
+/**** ToDos Table ****/
+/* #table {
+    
+} */
+
+/**** Categories ****/
+section.categories {
+    background-image: url('../images/3Tent.jpg');
+    background-size: 100%;
+    min-height: 78vh;    
+    width: 100%;
+    background-color: black;
+}
+
+section.categories article#cat {
+    margin: 0 30%;
+    border-radius: 25px;
+    box-shadow: 0 0 20px #6c757d;
+    border-style: groove;
+    background-color: rgba(255, 0, 0, .6);
+    
+}
+
+section.categories article#cat h1 {
+    text-shadow: 2px 2px rgba(25,25,25, .6);
+    color: white;    
+}
+
+
+
+div#catCard {
+    background-color: rgba(0,0,0,.60);
+    color: white;
+    border-radius: 5%;
+}
+
+div#catCard h3 {
+    background-color: rgba(255,0,0,.60);
+    border-radius: 7.75%;
+    color: white;
+    box-shadow: 0 0 20px #6c757d;
+}
+
+/* div#catCard p {
+    font-size: 1.2em;
+} */
+
+/**** Login ****/
+article#background {
+    margin: 0 30%;
+    background-color: rgba(255,0,0,.60);
+    border-radius: 25px;
+    border-style: groove;
+    box-shadow: 0 0 20px #6c757d;
+}
+
+div.background {
+    background-image: url('../images/outdoorsCropped.jpg');
+    background-size: 100%;
+    min-height: 78vh;    
+    width: 100%;
+    background-color: black;
+}
+
+#loginCard {
+    margin: 0 20%;
+    background-color: rgba(255,0,0,.60);
+    border-radius: 25px;
+    box-shadow: 0 0 20px #6c757d;
+    text-shadow: 2px 2px rgba(25,25,25, .6);
+}
+
+#loginHeader {
+    border-style: groove;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#loginBody {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-style: groove;
+}
+
+/**** Logout ****/
+div.logout {
+    box-shadow: 0 0 20px #6c757d;
+    box-shadow: 0 0 20px #6c757d;
+    color: white;
+}
+
+#logoutButton {
+    color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, .9);
+    border-style: groove;
+}
+
+/**** Footer ****/
